@@ -64,4 +64,4 @@ npm run build
 
 ## Author
 
-Made with ❤️ by **Kichu**.
+Made with 💖 by **Kichu**.
